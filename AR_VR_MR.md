@@ -1,5 +1,5 @@
 # **Application of AI in data security**
-Data security focus on to preventing intrusions and detecting intrusions from any 
+- Data security focus on to preventing intrusions and detecting intrusions from any 
 adversaries. AI is an valuable tool for protecting data currently. AI can detect 
 unauthorized activity within networks, it analyze malicious software that can lead to 
 the data insecure, it can cover or patch vulnerabilities in a company’s and it can detect 
@@ -12,13 +12,13 @@ analytics can also provide insights on how to respond to potential threats or br
 more efficiently means knowing about adversaries allows you to know their tactics, 
 techniques and procedure in order to prepare a response strategy to secure your data.
 -                                    Real world examples of Ai
--Email spam filters
-- Threat identification
-- AI-powered biometrics technology
-- Credit card fraud detection and risk reduction
-- Detecting zero-day malware (is a computer software vulnerability)
-- Cloud security automation
-- Securing authentication
+                                     - Email spam filters
+                                     - Threat identification
+                                     - AI-powered biometrics technology
+                                     - Credit card fraud detection and risk reduction
+                                     - Detecting zero-day malware (is a computer software vulnerability)
+                                     - Cloud security automation
+                                     - Securing authentication
 ## **Advantage and disadvantage of Ai in data security**
 - Advantage, Ai is being used to help improve data security efforts across the globe. 
 Ai algorithms can detect and prevent potential security threats, analyze large 
@@ -38,14 +38,14 @@ suggesting better routes for travelers in order to avoid crowded routes and risk
 Furthermore, Ai is being utilized to develop autonomous vehicles(self driving car) 
 that enable humans to get around without any human assistance.
 -                             Real world examples
-- Self-driving cars
-- Traffic detection
-- Parking management
-- Road condition monitoring
-- Autonomous planes (not existing but it will) 
-- Drone taxis
+                             - Self-driving cars
+                             - Traffic detection
+                             - Parking management
+                             - Road condition monitoring
+                             - Autonomous planes (not existing but it will) 
+                             - Drone taxis
 ## **Advantage and disadvantage of Ai in transport**
--Advantage, Increasing AI-powered systems in transport will reduced labour 
+- Advantage, Increasing AI-powered systems in transport will reduced labour 
 costs.It has also uses to prevent traffic accidents, Also traffic management 
 systems are more efficiently done with AI-powered system.it also use for data 
 analytics to upgrade transportation safety and overall system.
